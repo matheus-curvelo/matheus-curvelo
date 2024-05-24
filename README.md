@@ -1,16 +1,15 @@
-## Hi there 👋
+Meu nome é Matheus Curvelo
+Sou Desenvolvedora Front-end na SitesWP!
 
-<!--
-**matheus-curvelo/matheus-curvelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adoro trabalhar como front-end, então, atualmente estou aprimorando minhas habilidades com ReactJS e NextJS, com o objetivo de me tornar especialista em Front-end, além disso, estou aprendendo PHP que é muito utilizado na minha atual empresa e por achar importante explorar os horizontes de back-end também.
 
-Here are some ideas to get you started:
+Minhas principais habilidades são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript
+Typescript
+ReactJs
+NodeJS
+CSS/SASS
+Bootstrap/MUI
+
+Espero que goste do meu perfil e portfólio!
