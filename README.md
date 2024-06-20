@@ -4,7 +4,7 @@
 
 <!-- Sou desenvolvedor Front-end e trabalho na empresa <a href="https://siteswp.com.br/" target="_blank">SitesWP</a>! -->
 
-Sou desenvolvedor front-end e futuro engenheiro de software, apaixonado por tecnologia. Com quase 3 anos de experiência em desenvolvimento web, busco desenvolver minhas habilidades como full stack.
+Sou desenvolvedor front-end e futuro engenheiro de software, apaixonado por tecnologia. Com 3 anos de experiência em desenvolvimento web, busco desenvolver minhas habilidades como full stack.
 
 Gosto de estar sempre atualizado com as últimas tendências e avanços na área de tecnologia, experimentando novas linguagens de programação, frameworks e ferramentas.
 
