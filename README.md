@@ -1,49 +1,27 @@
-# :rocket: Oi, eu sou o Matheus!
+## :rocket: Oi, eu sou o Matheus!
 
-### Sou Desenvolvedor Front-end!
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-curvelo&layout=compact&theme=dracula" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode" />
 
-<!-- Sou desenvolvedor Front-end e trabalho na empresa <a href="https://siteswp.com.br/" target="_blank">SitesWP</a>! -->
+<p align="left"> 
+    Sou um desenvolvedor front-end e futuro engenheiro de software, possuo experiência em desenvolvimento de sites e aplicações web utilizando JavaScript e frameworks como React.js e Vue.js.
+</p>
 
-Sou um desenvolvedor front-end e futuro engenheiro de software, apaixonado por tecnologia e comprometido com o constante aprimoramento das minhas habilidades. Com três anos de experiência em desenvolvimento web, busco desenvolver minhas habilidades como full stack.
-
-Gosto de estar sempre atualizado com as últimas tendências e avanços na área de tecnologia, experimentando novas linguagens de programação, frameworks e ferramentas.
-
-Estou sempre em busca de novas oportunidades desafiadoras na área de tecnologia, onde possa contribuir e aplicar todo meu conhecimento.
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-curvelo&layout=compact&theme=dracula" />
+<p align="left"> 
+    Estou sempre em busca de novas oportunidades desafiadoras na área de tecnologia, onde possa contribuir e aplicar todo meu conhecimento.
+</p>
 
 ### Tecnologias e Ferramentas: <br>
 
-<div style="display:inline-block; pointer-events: none;">
+<p align="left">
+  🌐 <strong>Tecnologias</strong>: JavaScript, React.js, Vue.js, Bootstrap, Sass, Material Ui e TailwindCSS.
+</p>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40" />
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
-
-
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-
-</div>
-<br>
+<p align="left">
+  🛠️ <strong>Ferramentas</strong>: VSCode, Figma, Adobe XD, Git, Asana, Docker.
+</p>
 
 <br>
 
-Espero que goste do meu <a href="https://matheus-curvelo.vercel.app/" target="_blank">portfólio</a>!
+<p align="left">
+    Espero que goste do meu <a href="https://matheus-curvelo.vercel.app/" target="_blank">portfólio</a>!
+</p>
