@@ -1,9 +1,7 @@
 ## :rocket: Oi, eu sou o Matheus!
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-curvelo&layout=compact&theme=dracula" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador damasioCode" />
-
 <p align="left"> 
-    Sou um desenvolvedor front-end e futuro engenheiro de software, possuo experiência em desenvolvimento de sites e aplicações web utilizando JavaScript e frameworks como React.js e Vue.js.
+    Sou um desenvolvedor front-end apaixonado por tecnologia, inovação e pela criação de soluções impactantes que tornam a vida das pessoas mais fácil e conectada.
 </p>
 
 <p align="left"> 
@@ -13,7 +11,7 @@
 ### Tecnologias e Ferramentas: <br>
 
 <p align="left">
-  🌐 <strong>Tecnologias</strong>: JavaScript, React.js, Vue.js, Bootstrap, Sass, Material Ui e TailwindCSS.
+  🌐 <strong>Tecnologias</strong>: JavaScript, React.js, Bootstrap, Sass e Material Ui.
 </p>
 
 <p align="left">
@@ -25,3 +23,17 @@
 <p align="left">
     Espero que goste do meu <a href="https://matheus-curvelo.vercel.app/" target="_blank">portfólio</a>!
 </p>
+
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+
+<img 
+    height="175em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-curvelo&layout=compact&theme=dracula" 
+    min-width="300px" 
+    max-width="300px" 
+    width="300px" 
+    style="margin: 10px auto;" 
+    alt="Linguagens mais usadas"
+/>
+
+</div>
